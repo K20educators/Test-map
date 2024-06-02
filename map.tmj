@@ -220,12 +220,12 @@
                 {
                  "height":106.833333333333,
                  "id":13,
-                 "name":"jitsiChillZone",
+                 "name":"jitsiChillZone01",
                  "properties":[
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone01"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -247,7 +247,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom01"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -269,7 +269,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone02"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -291,7 +291,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom02"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -313,7 +313,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom03"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -335,7 +335,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom04"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -357,7 +357,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom05"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -379,7 +379,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom06"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -401,7 +401,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom07"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -423,7 +423,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom08"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -445,7 +445,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom09"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -467,7 +467,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom10"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -489,7 +489,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom11"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -511,7 +511,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom12"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -533,7 +533,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom13"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -555,7 +555,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom14"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -577,7 +577,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom15"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -599,7 +599,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom16"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -621,7 +621,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom17"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -643,7 +643,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom18"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -665,7 +665,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom19"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -687,7 +687,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom20"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -709,7 +709,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom22"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -731,7 +731,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom21"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -753,7 +753,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom24"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -775,7 +775,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom23"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -797,7 +797,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom26"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -819,7 +819,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom25"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -841,7 +841,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom28"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -863,7 +863,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom27"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -885,7 +885,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom30"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -907,7 +907,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiMeetingRoom29"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -929,7 +929,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone03"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -951,7 +951,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone04"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -973,7 +973,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone05"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -995,7 +995,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone06"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1017,7 +1017,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone07"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1039,7 +1039,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone08"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1061,7 +1061,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone09"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1083,7 +1083,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"jitsiChillZone10"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1105,7 +1105,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"jitsiBar"
                         }, 
                         {
                          "name":"jitsiTrigger",
