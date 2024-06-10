@@ -233,23 +233,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":83,
-                 "id":3,
-                 "name":"MeetingSpace2",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingSpace2"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":202.5,
-                 "x":1381,
-                 "y":1695
-                }, 
-                {
                  "height":31.3333,
                  "id":5,
                  "name":"Teleport01",
@@ -826,91 +809,6 @@
                  "width":32,
                  "x":1664.33333333333,
                  "y":1264.66666666667
-                }, 
-                {
-                 "height":104.5,
-                 "id":39,
-                 "name":"MeetingSpace1",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingSpace1"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":194,
-                 "x":1133.5,
-                 "y":1843
-                }, 
-                {
-                 "height":60,
-                 "id":40,
-                 "name":"MeetingSpace4",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingSpace4"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":188.5,
-                 "x":1454.5,
-                 "y":1138
-                }, 
-                {
-                 "height":68,
-                 "id":41,
-                 "name":"MeetingSpace3",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingSpace3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":129.333333333333,
-                 "x":1262.33333333333,
-                 "y":1261.66666666667
-                }, 
-                {
-                 "height":61.5,
-                 "id":42,
-                 "name":"MeetingSpace5",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingSpace5"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":135,
-                 "x":814,
-                 "y":1010
-                }, 
-                {
-                 "height":60,
-                 "id":43,
-                 "name":"MeetingSpace6",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingSpace6"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":128.666666666667,
-                 "x":1487.66666666667,
-                 "y":715.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
