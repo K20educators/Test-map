@@ -901,17 +901,17 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Gallery sphere"
+         "value":"Gallery sphere by K20 Educators"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"Gallery.png"
+         "value":"gallery.png"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Gallery"
+         "value":"Gallery sphere"
         }, 
         {
          "name":"script",
