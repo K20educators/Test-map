@@ -906,7 +906,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"gallery.png"
+         "value":"gallery-sphere.png"
         }, 
         {
          "name":"mapName",

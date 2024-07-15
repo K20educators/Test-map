@@ -295,7 +295,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"lounge.png"
         }, 
         {
          "name":"mapName",
