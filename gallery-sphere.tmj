@@ -240,7 +240,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from01"
+                         "value":"gallery-sphere.tmj#from01"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -274,7 +274,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from02"
+                         "value":"gallery-sphere.tmj#from02"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -308,7 +308,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from03"
+                         "value":"gallery-sphere.tmj#from03"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -325,7 +325,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from04"
+                         "value":"gallery-sphere.tmj#from04"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -376,7 +376,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from05"
+                         "value":"gallery-sphere.tmj#from05"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -393,7 +393,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from06"
+                         "value":"gallery-sphere.tmj#from06"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -444,7 +444,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from08"
+                         "value":"gallery-sphere.tmj#from08"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -478,7 +478,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from07"
+                         "value":"gallery-sphere.tmj#from07"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -512,7 +512,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from10"
+                         "value":"gallery-sphere.tmj#from10"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -546,7 +546,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from09"
+                         "value":"gallery-sphere.tmj#from09"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -580,7 +580,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from_Ground"
+                         "value":"gallery-sphere.tmj#from_Ground"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -614,7 +614,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from12"
+                         "value":"gallery-sphere.tmj#from12"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -648,7 +648,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from11"
+                         "value":"gallery-sphere.tmj#from11"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -682,7 +682,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from14"
+                         "value":"gallery-sphere.tmj#from14"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -716,7 +716,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from13"
+                         "value":"gallery-sphere.tmj#from13"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -750,7 +750,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from16"
+                         "value":"gallery-sphere.tmj#from16"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -784,7 +784,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Gallery.tmj#from15"
+                         "value":"gallery-sphere.tmj#from15"
                         }],
                  "rotation":0,
                  "type":"area",
