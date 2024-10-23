@@ -240,7 +240,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from01"
+                         "value":"#from01"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -274,7 +274,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from02"
+                         "value":"#from02"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -308,7 +308,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from03"
+                         "value":"#from03"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -325,7 +325,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from04"
+                         "value":"#from04"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -376,7 +376,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from05"
+                         "value":"#from05"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -393,7 +393,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from06"
+                         "value":"#from06"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -444,7 +444,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from08"
+                         "value":"#from08"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -478,7 +478,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from07"
+                         "value":"#from07"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -512,7 +512,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from10"
+                         "value":"#from10"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -546,7 +546,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from09"
+                         "value":"#from09"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -580,7 +580,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from_Ground"
+                         "value":"#from_Ground"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -614,7 +614,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from12"
+                         "value":"#from12"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -648,7 +648,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from11"
+                         "value":"#from11"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -682,7 +682,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from14"
+                         "value":"#from14"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -716,7 +716,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from13"
+                         "value":"#from13"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -750,7 +750,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from16"
+                         "value":"#from16"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -784,7 +784,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gallery-sphere.tmj#from15"
+                         "value":"#from15"
                         }],
                  "rotation":0,
                  "type":"area",
